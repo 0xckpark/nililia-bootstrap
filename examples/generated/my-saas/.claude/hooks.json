@@ -1,0 +1,19 @@
+{
+  "hooks": {
+    "SessionComplete": [
+      {
+        "type": "command",
+        "command": "bash scripts/session-end.sh \"$SESSION_ID\"",
+        "description": "Remind to update LESSONS/MEMORY on session end"
+      }
+    ],
+    "PreToolUse": [
+      {
+        "matcher": "Edit|Write",
+        "type": "command",
+        "command": "bash scripts/pre-edit-check.sh \"$TOOL_INPUT\"",
+        "description": "Warn before editing large files"
+      }
+    ]
+  }
+}
