@@ -1,5 +1,10 @@
 # ⚡ nililia-bootstrap
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![GitHub Stars](https://img.shields.io/github/stars/0xckpark/nililia-bootstrap?style=social)](https://github.com/0xckpark/nililia-bootstrap/stargazers)
+[![Claude Code](https://img.shields.io/badge/Claude%20Code-Compatible-D97757?logo=anthropic&logoColor=white)](https://claude.com/claude-code)
+[![Cursor](https://img.shields.io/badge/Cursor-Compatible-000000?logo=cursor&logoColor=white)](https://cursor.com)
+
 One command. Full project harness. Zero bloat.
 
 ```
