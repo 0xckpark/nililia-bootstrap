@@ -1,0 +1,30 @@
+{
+  "name": "nililia-bootstrap",
+  "owner": {
+    "name": "0xckpark",
+    "url": "https://github.com/0xckpark"
+  },
+  "plugins": [
+    {
+      "name": "nililia-bootstrap",
+      "source": "./",
+      "description": "Lightweight Claude Code harness initializer. Sycophancy guard, cache protection, read-before-write enforcement.",
+      "version": "0.1.0",
+      "author": {
+        "name": "0xckpark",
+        "url": "https://github.com/0xckpark"
+      },
+      "homepage": "https://github.com/0xckpark/nililia-bootstrap",
+      "repository": "https://github.com/0xckpark/nililia-bootstrap.git",
+      "license": "MIT",
+      "keywords": [
+        "claude-code",
+        "harness",
+        "bootstrap",
+        "ai-agents",
+        "workflow",
+        "prompt-engineering"
+      ]
+    }
+  ]
+}
