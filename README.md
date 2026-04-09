@@ -123,7 +123,7 @@ cp nililia-bootstrap.md .claude/commands/nililia-bootstrap.md
 
 ### Option C: Plugin Marketplace
 ```
-/plugin marketplace add parkchulkyun/nililia-bootstrap
+/plugin marketplace add 0xckpark/nililia-bootstrap
 /plugin install nililia-bootstrap
 ```
 
@@ -204,7 +204,7 @@ git add -A && git commit -m "feat: initial release" && git push
 
 # 3. Register on marketplace
 # In Claude Code:
-# /plugin marketplace add parkchulkyun/nililia-bootstrap
+# /plugin marketplace add 0xckpark/nililia-bootstrap
 ```
 
 ---
